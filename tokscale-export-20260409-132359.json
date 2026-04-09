@@ -1,0 +1,189 @@
+{
+  "agents": [
+    {
+      "agent": "Build",
+      "clients": "opencode",
+      "cost": 0.82786741,
+      "messageCount": 43,
+      "tokens": {
+        "cacheRead": 902984,
+        "cacheWrite": 0,
+        "input": 133674,
+        "output": 19806,
+        "total": 1056469
+      }
+    }
+  ],
+  "daily": [
+    {
+      "cost": 0.022580999999999997,
+      "date": "2026-03-19",
+      "tokens": {
+        "cacheRead": 0,
+        "cacheWrite": 59824,
+        "input": 242,
+        "output": 31,
+        "total": 60097
+      }
+    },
+    {
+      "cost": 0.024679770000000004,
+      "date": "2026-02-15",
+      "tokens": {
+        "cacheRead": 213774,
+        "cacheWrite": 32114,
+        "input": 9930,
+        "output": 1352,
+        "total": 257170
+      }
+    },
+    {
+      "cost": 0.6873597599999998,
+      "date": "2026-02-14",
+      "tokens": {
+        "cacheRead": 1782542,
+        "cacheWrite": 463404,
+        "input": 1406170,
+        "output": 15940,
+        "total": 3668056
+      }
+    },
+    {
+      "cost": 0.16464240000000002,
+      "date": "2026-02-13",
+      "tokens": {
+        "cacheRead": 73572,
+        "cacheWrite": 0,
+        "input": 54606,
+        "output": 2208,
+        "total": 130386
+      }
+    },
+    {
+      "cost": 0.26253279999999996,
+      "date": "2026-01-31",
+      "tokens": {
+        "cacheRead": 100884,
+        "cacheWrite": 0,
+        "input": 86066,
+        "output": 5852,
+        "total": 192802
+      }
+    },
+    {
+      "cost": 0.7841394099999999,
+      "date": "2026-01-27",
+      "tokens": {
+        "cacheRead": 902984,
+        "cacheWrite": 0,
+        "input": 119988,
+        "output": 19628,
+        "total": 1042605
+      }
+    }
+  ],
+  "models": [
+    {
+      "client": "opencode",
+      "cost": 0.7914219,
+      "model": "antigravity-claude-sonnet-4-5-thinking",
+      "provider": "google",
+      "sessionCount": 3,
+      "tokens": {
+        "cacheRead": 864923,
+        "cacheWrite": 0,
+        "input": 84445,
+        "output": 18574,
+        "total": 967942
+      }
+    },
+    {
+      "client": "claude, openclaw",
+      "cost": 0.7346205299999998,
+      "model": "minimax-m2.5",
+      "provider": "anthropic, minimax-portal",
+      "sessionCount": 3,
+      "tokens": {
+        "cacheRead": 1996316,
+        "cacheWrite": 555342,
+        "input": 1416342,
+        "output": 17323,
+        "total": 3985323
+      }
+    },
+    {
+      "client": "openclaw",
+      "cost": 0.38344720000000004,
+      "model": "gemini-3-pro-high",
+      "provider": "google-antigravity",
+      "sessionCount": 2,
+      "tokens": {
+        "cacheRead": 174456,
+        "cacheWrite": 0,
+        "input": 126986,
+        "output": 7882,
+        "total": 309324
+      }
+    },
+    {
+      "client": "opencode",
+      "cost": 0.03644551,
+      "model": "big-pickle",
+      "provider": "opencode",
+      "sessionCount": 1,
+      "tokens": {
+        "cacheRead": 38061,
+        "cacheWrite": 0,
+        "input": 49229,
+        "output": 1232,
+        "total": 88527
+      }
+    },
+    {
+      "client": "openclaw",
+      "cost": 0.0,
+      "model": "claude-opus-4-5-thinking",
+      "provider": "google-antigravity",
+      "sessionCount": 1,
+      "tokens": {
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "input": 0,
+        "output": 0,
+        "total": 0
+      }
+    },
+    {
+      "client": "openclaw",
+      "cost": 0.0,
+      "model": "claude-sonnet-4-5",
+      "provider": "google-antigravity",
+      "sessionCount": 1,
+      "tokens": {
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "input": 0,
+        "output": 0,
+        "total": 0
+      }
+    },
+    {
+      "client": "openclaw",
+      "cost": 0.0,
+      "model": "minimax-m2.1",
+      "provider": "minimax",
+      "sessionCount": 1,
+      "tokens": {
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "input": 0,
+        "output": 0,
+        "total": 0
+      }
+    }
+  ],
+  "totals": {
+    "cost": 1.94593514,
+    "tokens": 5351116
+  }
+}
