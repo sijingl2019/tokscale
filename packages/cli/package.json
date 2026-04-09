@@ -1,5 +1,5 @@
 {
-  "name": "@tokscale/cli",
+  "name": "@tokscale-kingo/cli",
   "version": "2.0.17",
   "description": "A high-performance CLI tool and visualization dashboard for tracking AI coding assistant token usage and costs across multiple platforms.",
   "license": "MIT",
